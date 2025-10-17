@@ -158,7 +158,7 @@ cd ~ && git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git
 ```bash
 nano ~/airgeddon/.airgeddonrc
 ```
- - Edit the last line 'AIRGEDDON_WINDOWS_HANDLING=xterm' to 'AIRGEDDON_WINDOWS_HANDLING=tmux'
+ - Edit the last line `AIRGEDDON_WINDOWS_HANDLING=xterm` to `AIRGEDDON_WINDOWS_HANDLING=tmux`
  - Press "Ctrl + O", press "Enter", then press "Ctrl + X"
 ---
 
